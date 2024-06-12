@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<BaseOutputPath>C:\Users\vili\source\repos\vhorvat22-test\FinanceTracker\Test\bin\Debug\net6.0</BaseOutputPath>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MSTest.TestAdapter" Version="3.4.3" />
+		<PackageReference Include="MSTest.TestFramework" Version="3.4.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\FinanceTracker\FinanceTracker.csproj" />
+	</ItemGroup>
+
+</Project>
