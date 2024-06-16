@@ -1,0 +1,152 @@
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\bin\Debug\Evaluation Manager.exe.config
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\bin\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\bin\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\bin\Debug\DBLayer.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\obj\Debug\Evaluation_Manager.FrmLogin.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\obj\Debug\Evaluation_Manager.FrmStudents.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\obj\Debug\Evaluation_Manager.Properties.Resources.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\obj\Debug\Evaluation Manager.csproj.GenerateResource.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\obj\Debug\Evaluation Manager.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\obj\Debug\Evaluation Manager.csproj.CopyComplete
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\obj\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\obj\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\04\RWA2324-04START\obj\Debug\Evaluation_Manager.FrmSearch.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\bin\Debug\Evaluation Manager.exe.config
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\bin\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\bin\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\bin\Debug\DBLayer.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation_Manager.FrmLogin.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation_Manager.FrmSearch.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation_Manager.FrmStudents.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation_Manager.Properties.Resources.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation Manager.csproj.GenerateResource.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation Manager.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation Manager.csproj.CopyComplete
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\05\obj\Debug\Evaluation_Manager.FrmEvaluation.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\bin\Debug\Evaluation Manager.exe.config
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\bin\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\bin\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\bin\Debug\DBLayer.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.FrmEvaluation.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.FrmLogin.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.FrmSearch.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.FrmStudents.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.Properties.Resources.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.csproj.GenerateResource.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.csproj.CopyComplete
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\06\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\bin\Debug\Evaluation Manager.exe.config
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\bin\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\bin\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\bin\Debug\DBLayer.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.FrmActivities.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.FrmEvaluation.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.FrmLogin.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.FrmSearch.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.FrmStudents.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.Properties.Resources.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.csproj.GenerateResource.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.csproj.CopyComplete
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\07\6 - programska logika za evaluaciju\6 - programska logika za evaluaciju\obj\Debug\Evaluation_Manager.FrmStudentEvaluations.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\bin\Debug\Evaluation Manager.exe.config
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\bin\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\bin\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\bin\Debug\DBLayer.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmActivities.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmEvaluation.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmLogin.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmSearch.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmStudentEvaluations.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmStudents.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmTeacher.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.Properties.Resources.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation Manager.csproj.GenerateResource.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation Manager.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation Manager.csproj.CopyComplete
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\08\7 - Napredno grafičko sučelje\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmStudent.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\Evaluation Manager.exe.config
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\DBLayer.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmActivities.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmEvaluation.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmFinalReport.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmLogin.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmSearch.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmStudent.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmStudentEvaluations.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmStudents.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.FrmTeacher.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation_Manager.Properties.Resources.resources
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation Manager.csproj.GenerateResource.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation Manager.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation Manager.csproj.CopyComplete
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation Manager.exe
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\obj\Debug\Evaluation Manager.pdb
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\EnvDTE.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\stdole.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Korisnik\Documents\FOI\RWA 23-24\09\8 - Napredna programska logika\8 - Napredna programska logika\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
